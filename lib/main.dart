@@ -23,7 +23,7 @@ class HomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Github Workflow'),
+        title: const Text('Github Workflo'),
         backgroundColor: Colors.blue,
         centerTitle: true,
       ),
